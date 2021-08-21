@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cat-lady-calculator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cat-lady-calculator/static/js/main.8f4fedc0.chunk.js",
+    "main.js.map": "/cat-lady-calculator/static/js/main.8f4fedc0.chunk.js.map",
+    "runtime-main.js": "/cat-lady-calculator/static/js/runtime-main.0adcbf00.js",
+    "runtime-main.js.map": "/cat-lady-calculator/static/js/runtime-main.0adcbf00.js.map",
+    "static/js/2.09cb8c80.chunk.js": "/cat-lady-calculator/static/js/2.09cb8c80.chunk.js",
+    "static/js/2.09cb8c80.chunk.js.map": "/cat-lady-calculator/static/js/2.09cb8c80.chunk.js.map",
+    "static/js/3.2a924b50.chunk.js": "/cat-lady-calculator/static/js/3.2a924b50.chunk.js",
+    "static/js/3.2a924b50.chunk.js.map": "/cat-lady-calculator/static/js/3.2a924b50.chunk.js.map",
+    "index.html": "/cat-lady-calculator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/cat-lady-calculator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.09cb8c80.chunk.js.LICENSE.txt": "/cat-lady-calculator/static/js/2.09cb8c80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0adcbf00.js",
+    "static/js/2.09cb8c80.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8f4fedc0.chunk.js"
+  ]
+}
